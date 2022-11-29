@@ -1,0 +1,24 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+
+button{
+    height: 30px;
+    border: 1px solid black;
+    color: azure;
+    background-color: rgb(74, 144, 144);
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+
+#price{
+    border: 2px solid black;
+    width: 30%;
+    height: 20px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: bisque;
+}
